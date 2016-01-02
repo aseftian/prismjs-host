@@ -6,15 +6,15 @@
  */
 
 code {
-	color: black;
-	text-shadow: 0 1px white;
-	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-	direction: ltr;
-	text-align: left;
+    	font-family: Consolas,Monaco,'Andale Mono',monospace;
+    	font-size: .85em;
 	white-space: pre;
-	word-spacing: normal;
-	word-break: normal;
-	word-wrap: normal;
+    	white-space: pre-wrap;
+    	white-space: pre-line;
+    	padding: .15625em .3125em;
+    	color: #4e4e4e;
+    	background-color: #b3d4fc;
+    	text-shadow: 0 .08em #fff;
 }
 
 code[class*="language-"],
