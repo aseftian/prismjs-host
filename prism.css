@@ -5,18 +5,6 @@
  * @author Lea Verou
  */
 
-code {
-    	font-family: Consolas,Monaco,'Andale Mono',monospace;
-    	font-size: .85em;
-	white-space: pre;
-    	white-space: pre-wrap;
-    	white-space: pre-line;
-    	padding: .15625em .3125em;
-    	color: #4e4e4e;
-    	background-color: #f5f2f0;
-    	text-shadow: 0 .08em #fff;
-}
-
 code[class*="language-"],
 pre[class*="language-"] {
 	color: black;
